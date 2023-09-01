@@ -13,15 +13,19 @@ The dataset includes various features such as education level, age, gender, occu
 
 ## Analytical Insights
 1. Correlation Heatmap:
-   - Analyzing the correlation heatmap revealed that education level and age are positively correlated with income, indicating that individuals with higher education levels and older age tend to have higher incomes.
    - ![image](https://github.com/uday-routhu/models/assets/24350354/94c73364-8c23-4851-a0c3-4e5b1bbcb36b)
-
+   - Analyzing the correlation heatmap revealed that education level and age are positively correlated with income, indicating that individuals with higher education levels and older age tend to have higher incomes.
 
 2. Income Distribution:
+   - ![image](https://github.com/uday-routhu/models/assets/24350354/c5ca12dc-5dc5-4eb1-9eb4-9b2be904c193)
    - Visualizing the income distribution showed that a significant portion of individuals have incomes below the threshold, which could impact the model's
    - performance.
-   - ![image](https://github.com/uday-routhu/models/assets/24350354/c5ca12dc-5dc5-4eb1-9eb4-9b2be904c193)
+     
+3. Capital Gains Histogram:
+   ![image](https://github.com/uday-routhu/models/assets/24350354/df531ee1-9c4b-4adf-8a90-de5e7680ca5f)
 
+   - Individuals with significant capital gains could be a potential target for higher-income financial products.
+   - The histogram shows the distribution of capital gains among different income levels, highlighting the potential target group.
 
 ## Model Performance
 ### DecisionTreeClassifier
@@ -56,6 +60,9 @@ The dataset includes various features such as education level, age, gender, occu
 
 2. Education Initiatives:
    - Based on the analysis, education level was found to be a significant predictor of income. Stakeholders could consider investing in education initiatives to help individuals improve their education and potentially increase their income.
+
+3. Targeting Age Range:
+   - Individuals in the age range where the probability of earning >50K is higher could be targeted for higher-income financial products or services.
 
 ## Conclusion
 This project aimed to predict an individual's income using various features from the Adult Income Dataset. The analysis provided insights into the relationships between features and income, and the predictive models helped in achieving accurate income predictions. The recommendations provided can guide stakeholders in making informed decisions to address income-related challenges.
