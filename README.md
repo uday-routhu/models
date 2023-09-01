@@ -1,5 +1,6 @@
 # Income Prediction Project
-![image](https://github.com/uday-routhu/models/assets/24350354/8a580201-6311-4497-b38d-1ae1d8ed7786)
+![image](https://github.com/uday-routhu/models/assets/24350354/f210aa21-ebdc-48e9-9ffd-2318bff1387d)
+
 
 
 ## Business Problem and Stakeholders
