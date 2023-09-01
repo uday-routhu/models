@@ -1,4 +1,6 @@
-# Income Prediction Project README
+# Income Prediction Project
+![image](https://github.com/uday-routhu/models/assets/24350354/8a580201-6311-4497-b38d-1ae1d8ed7786)
+
 
 ## Business Problem and Stakeholders
 The goal of this project is to predict whether an individual's income is above or below a certain threshold. The stakeholders include organizations or individuals who are interested in understanding the factors that influence an individual's income and want to use this prediction for decision-making.
