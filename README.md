@@ -26,6 +26,11 @@ The dataset includes various features such as education level, age, gender, occu
    - ![image](https://github.com/uday-routhu/models/assets/24350354/df531ee1-9c4b-4adf-8a90-de5e7680ca5f)
    - Individuals with significant capital gains could be a potential target for higher-income financial products.
    - The histogram shows the distribution of capital gains among different income levels, highlighting the potential target group.
+     
+4. Educational-num Distribution:
+   - ![image](https://github.com/uday-routhu/models/assets/24350354/2d890037-8b1c-4ef8-b3b6-5bf91f6135b9)
+   - The distribution of educational-num is shifted to the right for individuals earning >50K, indicating a higher educational level.
+
 
 ## Model Performance
 ### DecisionTreeClassifier
